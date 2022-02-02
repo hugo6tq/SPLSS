@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="600" height="600" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2009-12-05</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>nojhan</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:source>http://commons.wikimedia.org/wiki/Category:Rock_Paper_Scissors</dc:source>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Concept by Sam Kass. Photos on Wikimedia Commons by Fluff, modified by Sertion.</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>nojhan</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>Wikimedia Commons</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier>http://commons.wikimedia.org/wiki/File:pierre_ciseaux_feuille_lézard_spock.svg</dc:identifier>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>pierre</rdf:li>
+      <rdf:li>feuille</rdf:li>
+      <rdf:li>ciseaux</rdf:li>
+      <rdf:li>lézard</rdf:li>
+      <rdf:li>spock</rdf:li>
+      <rdf:li>lizard</rdf:li>
+      <rdf:li>rock</rdf:li>
+      <rdf:li>cissors</rdf:li>
+      <rdf:li>paper</rdf:li>
+      <rdf:li>morra</rdf:li>
+      <rdf:li>rochambeau</rdf:li>
+      <rdf:li/>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:description>Un diagrame de résolution du jeu « Pierre, ciseaux, feuille, lézard, Spock ».
+
+A resolution diagram of the game "Rock, Paper, Scissors, Lizard, Spock".</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <clipPath id="clipPath3435">
+   <circle cx="751.17" cy="-181.04" r="273.84" fill="#d7f4d7" stroke="#87de87" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.1113"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-4.5404 -1.9251)">
+  <g transform="matrix(.98184 0 0 .98184 -345.15 663.67)" stroke-linecap="round" stroke-linejoin="round">
+   <circle transform="matrix(.8741 0 0 .8741 771.97 -183.69)" cx="-126.16" cy="-211.36" r="343.84" fill="#d5e5ff" stroke="#80b3ff" stroke-width="11.44"/>
+   <g transform="matrix(1.0975 0 0 1.0975 -162.73 -169.73)" clip-path="url(#clipPath3435)" fill="#fff" stroke="#000" stroke-width="3.2151">
+    <path d="m699.96 141.26c-2.0328-10.164 0.75827-125.97-2.0328-142.3-12.85-13.237-41.783-23.997-60.307-44.044-16.325-17.669-22.898-42.216-37.946-60.984-7.827-9.7627-23.579-28.593-33.202-36.59-8.1612-6.7823-29.625-17.172-29.814-27.782-0.18111-10.126 13.688-14.17 23.716-15.585 17.419-2.458 51.713 15.5 58.274 23.716 1.8082 2.2643 26.912 24.31 36.59 37.946 10.108-2.1169 2.684-38.484 3.388-48.787 0.99865-14.615 1.3552-31.17 0.67759-33.88-0.6776-2.7104-4.0656-21.683-4.7432-29.137-0.67761-7.4536-6.0984-29.137-6.0984-32.525s-3.388-28.459-3.388-33.202c0-4.7432-0.0799-17.696-1.3552-27.782-1.2529-9.9083-3.1372-32.121-1.3552-48.11 1.3346-11.974 15.805-23.523 28.459-14.23 5.2044 3.8222 7.3668 13.373 10.164 18.973-1.443-6.6115-5.3039-26.206-3.388-37.268 3.7746-21.793 27.047-20.817 33.202-9.4864 6.2263 11.462 10.039 38.05 14.907 53.531 5.8431 18.58 9.1646 44.663 12.874 65.05 7.5075 15.232 10.824 38.915 18.973 52.853 2.3057 3.9436 6.9609 8.4312 11.519 8.1312 4.7527-0.31276 4.7432 0 12.197-14.907s6.4564-12.948 10.164-18.973c5.4208-8.8088 8.1312-18.295 12.197-24.394 2.2552-3.3828 9.5028-19.954 12.874-29.814 2.8916-8.4567 6.3229-17.164 8.8088-25.749 3.6896-12.741 8.1838-28.248 12.874-40.656 6.523-17.254 24.835-17.658 33.202-0.6776 6.1757 12.533-2.1768 31.641-4.7432 48.11 8.4425-11.766 24.328-1.0349 26.426 7.4536 2.5857 10.461 0.86892 25.249-0.67761 35.913-0.87767 6.052-4.1163 13.676-5.4208 19.65-1.6254 7.4442-3.403 15.691-5.4208 23.038-1.9094 6.9526-5.375 17.49-7.4536 24.394-2.8162 9.3533-4.4598 22.358-6.776 31.847-1.4501 5.9409-4.5576 13.596-5.4208 19.65-2.0374 14.29-0.44936 33.677-0.6776 48.11-0.18324 11.587-0.19038 27.045-0.6776 38.623-0.89937 21.373-1.1823 50.055-4.7432 71.148-1.7896 10.601-8.131 23.893-9.4864 34.558-5.1009 40.135 6.776 135.52 2.0328 134.84-4.7432-0.67761-149.75 0.6776-148.39-0.67761z"/>
+    <path d="m680.99-374.39c5.5706 30.747 15.773 74.515 27.782 146.36" fill-opacity=".13462"/>
+    <path d="m866.65-348.64c-28.322 79.722-16.608 34.394-49.465 135.52" fill-opacity=".13462"/>
+   </g>
+  </g>
+ </g>
+</svg>

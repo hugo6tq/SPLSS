@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="600" height="600" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2009-12-05</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>nojhan</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:source>http://commons.wikimedia.org/wiki/Category:Rock_Paper_Scissors</dc:source>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Concept by Sam Kass. Photos on Wikimedia Commons by Fluff, modified by Sertion.</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>nojhan</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>Wikimedia Commons</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier>http://commons.wikimedia.org/wiki/File:pierre_ciseaux_feuille_lézard_spock.svg</dc:identifier>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>pierre</rdf:li>
+      <rdf:li>feuille</rdf:li>
+      <rdf:li>ciseaux</rdf:li>
+      <rdf:li>lézard</rdf:li>
+      <rdf:li>spock</rdf:li>
+      <rdf:li>lizard</rdf:li>
+      <rdf:li>rock</rdf:li>
+      <rdf:li>cissors</rdf:li>
+      <rdf:li>paper</rdf:li>
+      <rdf:li>morra</rdf:li>
+      <rdf:li>rochambeau</rdf:li>
+      <rdf:li/>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:description>Un diagrame de résolution du jeu « Pierre, ciseaux, feuille, lézard, Spock ».
+
+A resolution diagram of the game "Rock, Paper, Scissors, Lizard, Spock".</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <clipPath id="clipPath3447">
+   <circle cx="357.44" cy="257.4" r="300.55" fill="#d7f4d7" stroke="#87de87" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-4.5404 -1.9251)">
+  <g transform="matrix(.98184 0 0 .98184 -46.411 49.2)" stroke-linecap="round" stroke-linejoin="round">
+   <circle transform="matrix(.8741 0 0 .8741 467.72 442.15)" cx="-126.16" cy="-211.36" r="343.84" fill="#fff6d5" stroke="#fd5" stroke-width="11.44"/>
+   <g clip-path="url(#clipPath3447)" fill="#fff" stroke="#000" stroke-width="3.5287">
+    <path d="m1.3575 430.32c-0.73031-0.17478 83.811-38.738 120.81-59.05 3.6646-2.0115 1.3423-20.075 4.7511-27.828 4.1445-9.426 32.71-94.842 35.294-102.49 0.69541-2.0578 19.345-20.737 35.105-41.182 15.9-20.627 25.853-38.874 34.125-42.302 8.1228-3.3656 15.961-3.5077 29.728-7.2843 11.783-3.2321 21.098-8.5371 25.249-10.363 7.4205-3.2635 17.866-6.9021 25.113-4.0724 6.6937 2.6134 4.0931 8.3305 5.4299 14.932 7.058-7.5179 17.78-14.675 26.589-22.261 8.6925-7.4851 15.469-15.405 22.959-21.857 6.971-6.0053 17.086-12.549 25.257-19.515 7.3643-6.2788 12.768-13.029 19.54-17.815 12.376-8.7476 32.77-23.628 47.511-27.149 10.97-2.6206 20.234 1.088 25.792 14.253 1.7797 4.2156-1.8208 12.629-4.0724 16.968 19.833-13.384 21.845-20.582 31.9-23.756 19.172-6.0514 28.275 3.798 29.864 19.005 1.2598 12.052-11.277 24.423-21.719 34.615 17.202-12.16 30.349 6.1696 31.222 20.362 0.39409 6.4059-4.1934 11.506-8.6575 17.764-5.8349 8.1803-11.415 17.83-15.777 24.996-9.4643 15.546-6.3937 8.2988-40.724 54.299 30.845-25.775 29.76-35.98 42.76-36.652 9.207-0.47549 11.642 6.0903 14.253 14.932 3.3528 11.353-9.238 30.748-15.611 40.724-11.778 18.438-31.511 40.171-45.475 57.014-11.15 13.449-27.305 30.311-38.009 44.118-10.486 13.526-20.122 35.097-32.579 46.833-45.769 43.117-116.4 105.27-152.04 118.1-54.499 19.624-185.45 92.336-184.62 94.344 1.2977 3.1357-73.982-170.36-73.982-169.68z"/>
+    <g fill-opacity=".16667">
+     <path d="m481.9 71.946-75.281 67.937c-22.22 22.094-45.322 49.484-65.896 61.701"/>
+     <path d="m521.27 103.17c-23.393 26.296-43.085 50.742-73.036 80.318-18.257 24.342-48.605 39.514-57.28 58.144"/>
+     <path d="m488.69 218.55c-33.4 43.958-46.154 36.315-77.376 91.629"/>
+     <path d="m173.76 255.2c46.986-43.413 94.957-62.17 143.21-105.2"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

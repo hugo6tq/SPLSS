@@ -1,0 +1,45 @@
+#g_game {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+#g_you, #g_comp {
+  padding: 15px;
+  text-align: center;
+}
+
+#g_you_move, #g_comp_move {
+  height: 400px;
+  margin-bottom: 10px;
+}
+
+#g_game img {
+  width: auto;
+  height: 400px;
+}
+
+#g_you { background: #ffdada; }
+
+#g_you_sel, #g_you_go {
+  box-sizing: border-box;
+  display: block;
+  margin: 0;
+  padding: 10px;
+  border: 0;
+  float: left;
+}
+
+#g_you_sel { width: 70%; }
+
+#g_you_go { width: 30%; }
+
+#g_comp { background: #dcffdc; }
+
+#g_score {
+  box-sizing: border-box;
+  max-width: 900px;
+  background: #444b9a;
+  color: #fff;
+  padding: 10px;
+}
