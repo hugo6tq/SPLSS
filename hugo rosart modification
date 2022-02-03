@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Javascript - Spock-Paper-Lizard-Scissor-Stone
+    </title>
+    <link href="game.css" rel="stylesheet">
+    <script src="game.js"></script>
+  </head>
+  <body>
+    <h1>
+      Spock-Paper-Lizard-Scissor-Stone modification hugo rosart
+    </h1>
+    <div id="g_game">
+      <!-- [YOUR MOVE] -->
+      <div id="g_you">
+        <h2>YOUR MOVE</h2>
+        <div id="g_you_move"></div>
+        <select id="g_you_sel" disabled>
+          <option value="Spock">Spock</option>
+          <option value="Paper">Paper</option>
+          <option value="Lizard">Lizard</option>
+          <option value="Scissor">Scissor</option>
+          <option value="Stone">Stone</option>
+        </select>
+        <input id="g_you_go" type="button" value="Go!" disabled/>
+      </div>
+      <!-- [COMPUTER'S MOVE] -->
+      <div id="g_comp">
+        <h2>COMPUTER'S MOVE</h2>
+        <div id="g_comp_move"></div>
+      </div>
+    </div> 
+    <!-- [SCOREBOARD] -->
+    <div id="g_score">
+      Win - <span id="g_win">0</span> |
+      Lose - <span id="g_lose">0</span> |
+      Draw - <span id="g_draw">0</span>
+    </div>
+  </body>
+</html>
